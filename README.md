@@ -10,6 +10,7 @@ I am an experienced full-stack software engineer, currently focusing on the fron
 - 💬  Ask me about anything related to Typescript/React/ChakraUI or Node.js/Express
 - ⚡  Fun fact: I ❤️ balroom dancing
 <br />
+
 # 💻 Root tech stack:
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
