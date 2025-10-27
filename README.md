@@ -4,15 +4,14 @@ I am an experienced full-stack software engineer, currently focusing on the fron
 
 📒 You will find more information in my [resume](https://drive.google.com/file/d/1M3i3xUYhvMf147k8p6ssVeb1OMSNBr9u/view?usp=sharing)
 <br />
-<br />
 # ⚡️ Some facts:
 - 🔭  I’m currently working on few awesome websites for interesting clients
 - 🌱  I’m currently learning Next.js and about AI (models and agents)
 - 💬  Ask me about anything related to Typescript/React/ChakraUI or Node.js/Express
 - ⚡  Fun fact: I ❤️ balroom dancing
 <br />
-<br />
 # 💻 Root tech stack:
+
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
