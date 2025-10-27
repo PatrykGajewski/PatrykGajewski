@@ -3,13 +3,12 @@
 I am an experienced full-stack software engineer, currently focusing on the front-end of applications. I am passionate about React, front-end architecture and innovations. I recently had the opportunity to lead a whole team and mentor team members, which was a wonderful journey. I have a proven track record of leading projects from inception to deployment across diverse industries.
 
 📒 You will find more information in my [resume](https://drive.google.com/file/d/1M3i3xUYhvMf147k8p6ssVeb1OMSNBr9u/view?usp=sharing)
-<br />
+
 # ⚡️ Some facts:
 - 🔭  I’m currently working on few awesome websites for interesting clients
 - 🌱  I’m currently learning Next.js and about AI (models and agents)
 - 💬  Ask me about anything related to Typescript/React/ChakraUI or Node.js/Express
 - ⚡  Fun fact: I ❤️ balroom dancing
-<br />
 
 # 💻 Root tech stack:
 
